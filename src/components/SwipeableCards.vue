@@ -155,7 +155,7 @@ export default {
   justify-content: space-between;
   span {
     display: block;
-    font-size: 4rem;
+    font-size: 3rem;
     padding-top: 2rem;
     text-shadow: 1px 1px 1px rgb(255, 102, 0);
   }
